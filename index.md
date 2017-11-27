@@ -3,8 +3,7 @@
 ##  Member of - AbantOS Linux!##
 
 
-
-### Elive Enlightenment - User Reference Guide - Booting###
+### Elive Enlightenment - User Reference Guide - Booting
 
 #### Here is some information regarding the process on how to boot an external flash drive USB and troubleshooting
 
@@ -13,7 +12,7 @@
 #### Power on your computer with the USB with Elive written to it plugged in. 
 
 
-#### When the initial boot screen of your computer appears, hold down the Boot Menu key to load the boot menu. On many computers this is the F12 key, or one of the other F row keys. 
+#### When the initial boot screen of your computer appears, hold down the Boot Menu key to load the boot menu. On many computers this is the ## F12 key ##, or one of the other F row keys. 
 
 #### A list of common boot menu keys for various manufacturers can be found at
 #### http://www.elivecd.org/ufaqs/how-to-tell-the-computer-to-boot-from-another-device/.
