@@ -1,4 +1,4 @@
-# Welcome to Doung Doth's page#
+# Welcome to Doung Doth's page
 
 ## Member of - AbantOS Linux!#
 
