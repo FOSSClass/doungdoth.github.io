@@ -30,9 +30,9 @@
 
 
 
-## USB Booting Issues?
+## _USB_ Booting Issues?
 
-#### Did you have an issue come up when your PC did not want to boot external flash drive _USB_ even after going to _BIOS_ and selecting appropriate device? Did an Error message popped up saying something along the lines of "device is not found"? So what do you do?
+#### Did you have an issue come up when your computer did not want to boot external flash drive _USB_ even after going to _BIOS_ and selecting appropriate device? Did an Error message popped up saying something along the lines of "device is not found"? So what do you do?
 
 
 #### After you install what ever that it is you want on your external flash drive _USB_ you may find out that you are finding some trouble getting it to work. Now there are some ways to go about this.
@@ -47,17 +47,17 @@
 #### Also some modern computers use  _UEFI_ motherboards instead of the tradtional _BIOS_.  Depending on the operating system, it may not support _UEFI_  and supports _BIOS_. _UEFI_ motherboards support what is called _legacy boot_, which allows the computer to boot external devices.
 
 
-####  _Press the power button, press the key F12 until the boot menu comes up. If that does not work, you may need to enter the BIOS and change it to allow the boot menu to show._ 
+####  _Press the power button, press the key _F12_ until the boot menu comes up. If that does not work, you may need to enter the _BIOS_ and change it to allow the boot menu to show._ 
 
 
-#### _Using the ##F1## Key to enter the BIOS, you wan to look for anything regarding UEFI/Legacy Boot._ 
+#### _Using the _F1 Key_ to enter the _BIOS_, you wan to look for anything regarding UEFI/Legacy Boot._ 
 
 
 
-#### O_nce you find that, change the settings to enable or on. If theres and option for both, set that as well. 
+#### Once you find that, change the settings to _enable or on_. If theres and option for _both_, set that as well. 
 
 
-#### _Then after you do that you have to set the priority. Change or enable the settings to Legacy first. To allow the  external flash drive to ##first## boot._
+#### _Then after you do that you have to set the priority. Change or enable the settings to Legacy first. To allow the  external flash drive to first boot._
 
 
 
