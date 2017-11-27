@@ -1,14 +1,14 @@
-# Welcome to Doung Doth's page 
+# Welcome to Doung Doth's page#
 
-##  Member of - AbantOS Linux! 
+##  Member of - AbantOS Linux!##
 
 
 
-### Elive Enlightenment - User Reference Guide - Booting
+### Elive Enlightenment - User Reference Guide - Booting###
 
 #### Here is some information regarding the process on how to boot an external flash drive USB and troubleshooting
 
-## Booting via External hardrive: USB Flash Drive(Windows)
+## Booting via External hardrive: USB Flash Drive(Windows##
 
 #### Power on your computer with the USB with Elive written to it plugged in. 
 
@@ -17,6 +17,7 @@
 
 #### A list of common boot menu keys for various manufacturers can be found at
 #### http://www.elivecd.org/ufaqs/how-to-tell-the-computer-to-boot-from-another-device/.
+
 
 #### When the boot menu key appears, highlight the USB drive option and press Enter.
 
@@ -31,7 +32,7 @@
 
 
 
-## USB Booting Issues?
+## USB Booting Issues?##
 
 #### Did you have an issue come up when your PC did not want to boot external flash drive USB even after going to Bios and selecting appropriate device? Did an Error message popped up saying something along the lines of "device is not found"? So what do you do?
 
@@ -39,26 +40,26 @@
 #### After you install what ever that it is you want on your external flash drive USB you may find out that you are finding some trouble getting it to work. Now there are some ways to go about this.
 
 
-#### Usually something needs to be configured in the BIOS of your computer. That means tweaking a few settings to allow the external flash drive USB to be recognized and run. Once this is complete, your external hard drive USB device should now be able to run and work.
+#### Usually something needs to be configured in the ##BIOS## of your computer. That means tweaking a few settings to allow the external flash drive USB to be recognized and run. Once this is complete, your external hard drive ##USB## device should now be able to run and work.
 
 
 #### One of the reasons why your are running into this problem is that, some modern computers boot immediately from the internal hard drive or SSD, paying no attention to any external bootable media first. 
 
 
-#### Also some modern computers use  UEFI motherboards instead of the old-fashioned BIOS.  Depending on the operating system, it may not   support UEFI  and supports BIOS. UEFI motherboards support what is called legacy boot, which allows the computer to boot external devices.
+#### Also some modern computers use  UEFI motherboards instead of the tradtional ##BIOS##.  Depending on the operating system, it may not support ##UEFI##  and supports BIOS. ##UEFI## motherboards support what is called ##legacy boot##, which allows the computer to boot external devices.
 
 
-####  Press the power button, press the key F12 until the boot menu comes up. If that does not work, you may need to enter the BIOS and change it to allow the boot menue to show. 
+####  Press the power button, press the key ##F12## until the ##boot menu## comes up. If that does not work, you may need to enter the ##BIOS## and change it to allow the ##boot menu## to show. 
 
 
-#### Using the F1 Key to enter the BIOS, you wan to look for anything regarding UEFI/Legacy Boot. 
+#### Using the ##F1## Key to enter the ##BIOS##, you wan to look for anything regarding ##UEFI/Legacy Boot##. 
 
 
 
 #### Once you find that, change the settings to enable or on. If theres and option for both, set that as well. 
 
 
-#### Then after you do that you have to set the priority. Change or enable the settings to Legacy first. To allow the  external flash drive to first boot.
+#### Then after you do that you have to set the ##priority##. Change or enable the settings to ##Legacy first##. To allow the  external flash drive to ##first## boot.
 
 
 
@@ -78,7 +79,7 @@
 
 
 
-# APPLE iOS MAC USER?
+# APPLE iOS MAC USER? #
 
 #### If you are using an iOS - Apple Mac, and is having some issues geting your external flashdrive USB to work, try these things.
 
