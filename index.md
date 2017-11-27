@@ -1,12 +1,12 @@
 # Welcome to Doung Doth's page
 
-## Member of - AbantOS Linux!#
+## Member of - AbantOS Linux!
 
 ### Elive Enlightenment - User Reference Guide - Booting
 
 #### Here is some information regarding the process on how to boot an external flash drive _USB_ and troubleshooting
 
-## Booting via External hardrive: _USB_ Flash Drive(Windows##
+## Booting via External hardrive: _USB_ Flash Drive(Windows)
 
 #### _Power on your computer with the _USB_ with Elive written to it plugged in. 
 
